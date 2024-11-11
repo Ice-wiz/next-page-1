@@ -1,5 +1,5 @@
 import "../styles/globals.css";
-import { VWOScript } from "inject-smartcode-next";
+import { VWOScript } from "vwo-next-smartcode";
 
 export default function App({ Component, pageProps }) {
   return (
